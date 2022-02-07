@@ -1,0 +1,32 @@
+body{
+font-family: 'Indie Flower', cursive;
+   
+   
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p, ul {
+    font-weight : bold;
+    background-color: white;
+    opacity: 0.9;
+}
+#Poem1, #Poem2 {
+    width: 50%;
+    float:left;
+    margin-left: 2%;
+    padding: 20px;
+}
+#Poem1 { 
+    border:double thick red; 
+   background-image:url("https://data.whicdn.com/images/326390521/original.jpg");
+} 
+
+#Poem2 { 
+    border: double thick red;
+    background-image:url("https://i.pinimg.com/564x/fe/9f/b6/fe9fb6ba76d40b2f52af51861dbc80b7.jpg");
+}
+
+    
